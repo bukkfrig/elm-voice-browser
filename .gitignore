@@ -1,0 +1,6 @@
+/node_modules
+/elm-stuff
+elm.js
+package-lock.json
+/.vscode
+/index.html
